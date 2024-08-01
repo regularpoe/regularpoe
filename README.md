@@ -2,6 +2,6 @@
 {
 	"name": "regularpoe",
 	"@work": "software engineer turned ops",
-	"@home": ["clojure", "elixir", "go", "lua", "ruby", "rust", "scala"]
+	"@home": ["clojure", "elixir", "ruby", "rust"]
 }
 ```
