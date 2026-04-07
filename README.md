@@ -1,6 +1,6 @@
 ```json
 {
 	"name": "regularpoe",
-	"uses": ["clojure", "elixir", "ruby", "rust"]
+	"uses": ["go", "ruby", "rust"]
 }
 ```
